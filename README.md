@@ -13,6 +13,7 @@
   <a href="https://github.com/Szmyk/gmbt/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FSzmyk%2Fgmbt?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FSzmyk%2Fgmbt.svg?type=shield"/></a>
   
   <a href="https://stats.uptimerobot.com/Lv8jVs0kK">
     <img src="https://img.shields.io/uptimerobot/status/m780841486-c4045132dc369debb14a3cbd.svg" alt="Status">
@@ -40,6 +41,9 @@
 This project was developed primarily for the purpose of assisting the SoulFire team with the development of [The Chronicles of Myrtana].
 
 Tool available in English <img src="https://www.crwflags.com/fotw/images/g/gb.gif" width = "25px">, Polish <img src="https://www.crwflags.com/fotw/images/p/pl.gif" width = "25px"> and Slovak <img src="https://www.crwflags.com/fotw/images/s/sk.gif" width = "25px">.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSzmyk%2Fgmbt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSzmyk%2Fgmbt?ref=badge_large)
 
 ## Table of Contents
 
